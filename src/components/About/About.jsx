@@ -104,7 +104,7 @@ const About = () => {
                   mb: 3,
                 }}
               >
-                2 yıllık deneyime sahip bir Full Stack Yazılım Geliştiricisiyim.
+                1 yıllık deneyime sahip bir Full Stack Yazılım Geliştiricisiyim.
                 Modern web teknolojileri konusunda uzmanlaşmış olup, kullanıcı
                 deneyimini ön planda tutan, performanslı ve ölçeklenebilir web
                 uygulamaları geliştiriyorum.
